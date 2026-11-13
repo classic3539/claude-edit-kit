@@ -1,0 +1,15 @@
+.venv/
+footage/
+references/
+renders/
+*-frames/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.m4a
+*.words.json
+*.transcript.txt
+.DS_Store
+node_modules/
